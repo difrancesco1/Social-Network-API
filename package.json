@@ -20,7 +20,7 @@
   "homepage": "https://github.com/difrancesco1/Social-Network-API-#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "moment": "^2.29.1",
-    "mongoose": "^6.2.3"
+    "moment": "^2.29.2",
+    "mongoose": "^6.2.11"
   }
 }
